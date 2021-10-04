@@ -4,6 +4,8 @@ A Pytorch dataset class implementation for MIT-Adobe FiveK dataset.
 Please refer to the dataset website to get the license and other information about the dataset:
 https://data.csail.mit.edu/graphics/fivek/
 
+![MIT Adobe 5K Pytorch](/5k_notebook.jpg)
+
 The code consists of:    
 `preprocess_5k.py` : Code to convert the ".dng" files into ".jpg".   
 `MITAdobe5K.py` : Dataset implementation.   
