@@ -5,8 +5,8 @@ Please refer to the dataset website to get the license and other information abo
 https://data.csail.mit.edu/graphics/fivek/
 
 The code consists of:
-`preprocess_5k.py` : Code to convert the ".dng" files into ".jpg". 
-`MITAdobe5K.py` : Dataset implementation.
+`preprocess_5k.py` : Code to convert the ".dng" files into ".jpg".   
+`MITAdobe5K.py` : Dataset implementation.   
 
 Note:
 1.  Download the dataset here https://data.csail.mit.edu/graphics/fivek/fivek_dataset.tar and extract the dataset. The extracted dataset is assumed in a folder named "MIT-Adobe-5K".
